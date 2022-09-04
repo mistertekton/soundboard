@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<soundboard>
+  <group name="rick_and_morty">
+    <element id="1" filename="01_i_like_what_you_got.wav">
+      I like what you got
+    </element>
+    <element id="2" filename="02_my_man.wav">
+      My man
+    </element>
+    <element id="3" filename="03_lick_my_balls.wav">
+      Lick Lick Lick my balls...hahaha yeah!
+    </element>
+    <element id="4" filename="04_oooo_yeah__caaan_doo!.wav">
+      Oooo Yeah Caaan Dooo!
+    </element>
+    <element id="5" filename="05_woo_vu_luvub_dub_dub.wav">
+      Wubba Lubba Dub Dub
+    </element>
+    <element id="6" filename="06_thats_retarded.wav">
+      That's retarded
+    </element>
+    <element id="7" filename="07_oh_man.wav">
+      Oh man
+    </element>
+    <element id="8" filename="08_hi_im_mr_meeseeks_look_at_me.wav">
+      Hi I'm Mr.Meeseeks Look at me!
+    </element>
+    <element id="9" filename="09_get_schwifty_in_here.wav">
+      You gotta get Schwifty
+    </element>
+    <element id="10" filename="10_awww_bitch.wav">
+      Awww Bitch
+    </element>
+    <element id="11" filename="11_riggity.wav">
+      Riggity Riggity Wrecked Son
+    </element>
+    <element id="12" filename="12_i_dont_give_a_f__k_you_think.wav">
+      I don't give a f**k what you think
+    </element>
+    <element id="13" filename="13_show_me_what_you_got!.wav">
+      Show me what you got!
+    </element>
+    <element id="14" filename="14_in_bird_culture__this_is_considered.wav">
+      In bird culture, this is considered a dick move
+    </element>
+    <element id="15" filename="15_butthole.wav">
+      I'm gonna need you to put it way up inside your butthole
+    </element>
+    <element id="16" filename="16_ricky_ticky_tabby_biatch.wav">
+      Riki Tiki Tavi Biatch
+    </element>
+    <element id="17" filename="17_good_job!.wav">
+      Good Job
+    </element>
+    <element id="18" filename="18_rick.wav">
+      Tiny Rick!
+    </element>
+    <element id="19" filename="19_this_is_how_you_dream_bitch.wav">
+      This is how you dream bitch
+    </element>
+    <element id="20" filename="20_aids.wav">
+      AIDS!
+    </element>
+  </group>
+  <group name="borat">
+    <element id="1" filename="01_borat_theme_loop.mp3">
+      Borat theme loop
+    </element>
+    <element id="2" filename="02_bush_explanation.mp3">
+      Bush Explanation
+    </element>
+    <element id="3" filename="03_do_you_want_to_touch.mp3">
+      Do you want to touch
+    </element>
+    <element id="4" filename="04_everybody_dance_now_song.mp3">
+      Everybody Dance Now song
+    </element>
+    <element id="5" filename="05_genqui.mp3">
+      Genqui
+    </element>
+    <element id="6" filename="06_big_testicles.mp3">
+      He have very big testicles
+    </element>
+    <element id="7" filename="07_do_you_like_me.mp3">
+      I like you do you like me
+    </element>
+    <element id="8" filename="08_i_win.mp3">
+      I win
+    </element>
+    <element id="9" filename="09_jagshemash.mp3">
+      Jagshemash
+    </element>
+    <element id="10" filename="10_last_night_i_have_sex.mp3">
+      Last night I have sex
+    </element>
+    <element id="11" filename="11_my_name_borat.mp3">
+      My name borat
+    </element>
+    <element id="12" filename="12_my_sister_is_a_prostitute.mp3">
+      My sister is a prostitute
+    </element>
+    <element id="13" filename="13_my_wife_is_dead.mp3">
+      My wife is dead
+    </element>
+    <element id="14" filename="14_she_must_be_tight.mp3">
+      She must be tight
+    </element>
+    <element id="15" filename="15_there_is_a_smell.mp3">
+      There is a smell
+    </element>
+    <element id="16" filename="16_sexy_intercourse.mp3">
+     When do we have sexy intercourse
+    </element>
+    <element id="17" filename="17_why_not.mp3">
+      Why not
+    </element>
+    <element id="18" filename="18_why_you_laugh.mp3">
+      Why you laugh
+    </element>
+    <element id="19" filename="19_wow_wow_wee_waa.mp3">
+      Wow wow wee waa
+    </element>
+    <element id="20" filename="20_you_are_my_best_friend.mp3">
+      You are my best friend
+    </element>
+  </group>
+</soundboard>
