@@ -59,7 +59,7 @@
                     </tr>
                 </table>
             </div>
-            <p class="footer">Copyright &copy; Summa College ICT</p>
+            <p class="footer">Copyright &copy; {Yourname}</p>
         </div>
     </body>
 </html>
